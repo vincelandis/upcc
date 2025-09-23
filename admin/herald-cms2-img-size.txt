@@ -1,0 +1,14 @@
+Homepage
+
+Hero Image: 3200 x 1600 pixels
+Hero Video: 1920 x 1080 pixels; keep around 15-20 seconds and around 3-4 MB
+Quicklinks Images: 2000 x 2000 pixels
+Freeform Section 1: 3400 x 1640 pixels
+Freeform Section 2: 3400 x 1400 pixels
+Other Pages
+
+Subpage Header Image: 3200 x 1000 pixels
+Featured Blogpost Image: 1080 x 700 pixels
+Featured Event Image: 1080 x 700 pixels
+Sermon Series Image: 1080 x 700 pixels
+Staff Photos (if utilizing the People Groups module): 1080 x 1080 pixels
