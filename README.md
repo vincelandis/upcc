@@ -8,6 +8,21 @@ This repo contains assets for the Upper Perkiomen Community Church website, upcc
 ## Banner
 - contains source images and banner working files for website homepage banners
 
+## Chamber of Commerce Ad
+- contains source images and working files for local advertisements
+
+## Images
+- contains misc images not related to other folders
+
+## Logo
+- contains UPCC logo source files
+
+## Page Backup
+- contains webpage backups for deleted/legacy pages
+
+## Seating Chart
+- contains upcc interior seating chart information
+
 ## Sermon Graphic
 - contains youversion / church website header images and other sermon theme source images
 
